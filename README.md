@@ -1,4 +1,4 @@
-##👋 About me
+## 👋 About me
 - CS + Math @ University of Maryland
 
 ## 🔭 Projects
