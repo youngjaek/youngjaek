@@ -1,4 +1,12 @@
-## Hi there 👋
+##👋 About me
+- CS + Math @ University of Maryland
+
+## 🔭 Projects
+- Currently working on [Kinoboxd](https://kinoboxd.me)
+
+## 🪪 Cards
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=damfino)](https://solved.ac/damfino)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngjaek)](https://github.com/youngjaek)
 
 <!--
 **youngjaek/youngjaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
