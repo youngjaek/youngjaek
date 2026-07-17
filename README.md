@@ -1,8 +1,15 @@
-## 👋 About me
-- CS + Math @ University of Maryland
+## 👋 Youngjae Kim (김영재)
+I'm currently studying computer science and mathematics at University of Maryland.
 
-## 🔭 Projects
-- Currently working on [Kinoboxd](https://kinoboxd.me)
+I used to go by many aliases... went by Alex from elementary to high school, then Jay and Jesse in college.
+
+I am interested in distributed systems, software architecture, scalable data systems, and algorithms.
+
+In free time, I watch (a lot of) movies and read books with good stories.
+
+## 🎈 Experience
+- DevOps intern @ [Easy Dynamics](https://www.easydynamics.com/) [summer 2026]
+- Software Engineer @ [EchoIT](https://echoit.co.kr/) [july 2023 - august 2025]
 
 ## 🪪 Cards
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=damfino)](https://solved.ac/damfino)
